@@ -21233,7 +21233,7 @@ function fE() {
                       className:
                         "flex items-center space-x-2 bg-gradient-to-r from-[#00ff66] to-[#00f0ff] hover:to-[#00ff66] text-obsidian font-display font-semibold transition-all duration-300 hover:scale-[1.03] px-6 py-4 rounded-xl shadow-[0_0_20px_rgba(0,255,102,0.3)] cursor-pointer",
                       children: [
-                        p.jsx("span", { children: "ACCESS LIQUIDITY SWAP" }),
+                        p.jsx("span", { children: "ACCESS UNISWAP" }),
                         p.jsx(yA, { className: "w-4 h-4 stroke-[3px]" }),
                       ],
                     }),
