@@ -21840,7 +21840,7 @@ function hE() {
                           p.jsx("span", {
                             className:
                               "font-mono text-[9px] text-matrix-teal uppercase tracking-widest mt-1",
-                            children: "Locked LP",
+                            children: "LP burnt",
                           }),
                         ],
                       }),
