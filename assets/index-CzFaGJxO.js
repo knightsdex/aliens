@@ -20697,9 +20697,9 @@ function rA(i, a, r, s) {
     },
     {
       label: "Liquidity Status",
-      value: "LP Burnt",
+      value: "LP Locked",
       description:
-        "Uniswap LP tokens have been burnt, permanently removing access to the liquidity.",
+        "Liquidity pooled is permanently locked on Uniswap with keys tossed into a black hole.",
       glowColor: "purple",
     },
     {
@@ -21279,7 +21279,7 @@ function fE() {
                         p.jsx("p", { children: "LIQUIDITY" }),
                         p.jsx("p", {
                           className: "text-[#00f0ff] font-medium mt-1 text-xs",
-                          children: "100% BURNT",
+                          children: "Locked",
                         }),
                       ],
                     }),
@@ -21840,7 +21840,7 @@ function hE() {
                           p.jsx("span", {
                             className:
                               "font-mono text-[9px] text-matrix-teal uppercase tracking-widest mt-1",
-                            children: "LP burnt",
+                            children: "LP locked",
                           }),
                         ],
                       }),
