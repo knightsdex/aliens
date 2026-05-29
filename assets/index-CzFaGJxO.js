@@ -22683,7 +22683,7 @@ function yE() {
                     children: [
                       
                       new Date().getFullYear(),
-                      " ALIENS. Sent from cosmos.",
+                      " ALIENS. This is the OG aliens dot gov for Illegal immigration",
                     ],
                   }),
                 ],
