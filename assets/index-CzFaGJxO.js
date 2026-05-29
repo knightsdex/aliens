@@ -20745,7 +20745,7 @@ function rA(i, a, r, s) {
     p1: "For 60 years, the U.S. government has kept a closely guarded secret. Aliens have been walking among us, living in our neighborhoods, and interacting with us in our daily lives. They've shopped in the same stores, attended the same classes as our children, and lived seemingly normal human existences. With one exception — they do not belong here. Millions arrived under the cover of darkness and embedded themselves directly into our society. Countless presidents, congressmen, and senior officials knew exactly what was happening. Instead of protecting American citizens, they chose to cover it up and even accelerate the invasion. Until one man finally had the courage to tell the truth. Bold. Unapologetic. Unafraid.",
     p2: "President Trump was the first to call out the real danger Aliens pose to every American family, every community, and the future of our nation.",
   },
-  pa = { telegram: "https://t.me/VitalienEth", x: "https://x.com/VitalienEth" };
+  pa = { telegram: "https://t.me/aliensgovoneth", x: "https://x.com/aliensgovcoin" };
 function cE() {
   const [i, a] = k.useState(!1),
     [r, s] = k.useState(!1);
